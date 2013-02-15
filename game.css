@@ -1,0 +1,44 @@
+.mainblock{
+    display: block;
+    background-color: #ddd;
+    height: 350px;
+    width: 350px;
+    margin: 10px;
+}
+
+.mainblock span{
+    display: block;
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    float: left;
+    margin: 6px 6px;
+    background-color: blue;
+}
+
+.button{
+    display: block;
+    height: 50px;
+    width: 350px;
+}
+
+.button span{
+    height: 23px;
+    width: 23px;
+    border: 1px solid black;
+    margin: 5px 10px;
+    padding: 5px;
+}
+
+.blue {
+    background: blue;
+}
+.red {
+    background: red;
+}
+.white {
+    background: white;
+}
+.target {
+    border: 2px solid yellow;
+}
